@@ -1,4 +1,4 @@
-This module is an optimized implementation of Ukkonen's suffix tree algorithm in python which **will** be having most of the important text processing functionalities such as:
+## This module is an optimized implementation of Ukkonen's suffix tree algorithm in python. Aiming to support the important text processing functionalities such as:
 
 
 ### Search for strings:
